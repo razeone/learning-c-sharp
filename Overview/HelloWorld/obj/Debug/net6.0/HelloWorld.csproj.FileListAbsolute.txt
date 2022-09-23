@@ -1,0 +1,15 @@
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

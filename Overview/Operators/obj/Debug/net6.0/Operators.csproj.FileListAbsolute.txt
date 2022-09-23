@@ -1,0 +1,15 @@
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net6.0\Operators.exe
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net6.0\Operators.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\refint\Operators.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net6.0\ref\Operators.dll
