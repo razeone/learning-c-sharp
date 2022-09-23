@@ -1,0 +1,15 @@
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.exe
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+C:\Users\jorgealc\Workspace\C-sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll

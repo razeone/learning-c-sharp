@@ -13,13 +13,27 @@ namespace ForLoops
             // TODO: the basic for loop
             Console.WriteLine("The basic for loop:");
 
+            for(int i = 0; i < myVal; i++) {
+                Console.WriteLine("The value of i is {0}", i);
+            }
+
             Console.WriteLine();
 
             // TODO: the foreach-in loop can be used to iterate over sequences
             // Console.WriteLine("The foreach loop:");
+            foreach(int i in nums) {
+                Console.WriteLine("The value of i is {0}", i);
+            }
 
 
             // TODO: count the number of o's in the string
+            int counter = 0;
+            foreach(char i in str) {
+                if(i == 'o') {
+                    counter++;
+                }
+            }
+            Console.WriteLine("The number of o's are: {0}", counter);
 
         }
     }
