@@ -1,0 +1,30 @@
+using System;
+
+namespace ProgChallenge {
+    class BankAccount {
+        public string _firstname;
+        public string _lastname;
+
+        public decimal Balance { get; set; }
+
+        public BankAccount(string fname, string lname, decimal initial=0.0m) {
+            _firstname = fname;
+            _lastname = lname;
+            Balance = initial;
+        }
+
+        public string AccountOwner {
+            get {
+                return $"{_firstname} {_lastname}";
+            }
+        }
+
+        public virtual void Deposit(decimal amount) {
+            Balance += amount;
+        }
+
+        public virtual void Withdraw(decimal amount) {
+            Balance -= amount;
+        }
+    }
+}
